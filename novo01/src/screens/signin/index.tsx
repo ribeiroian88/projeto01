@@ -8,7 +8,7 @@ export function SignIn (){
     return(
      <View style={{flex:1,justifyContent: "center", alignItems: "center"}}>
         <Text>
-            digite algum texto
+            algum texto
         </Text>
         <TextInput/>
      </View>
