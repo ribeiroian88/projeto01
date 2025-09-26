@@ -10,7 +10,7 @@ export function SignIn (){
         <Text>
             algum texto
         </Text>
-        <TextInput/>
+        <TextInput style={{width:200,height:50,borderWidth:2}}/>
      </View>
     )
 }
